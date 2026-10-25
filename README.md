@@ -12,3 +12,9 @@ SQLite, DB Browser for SQLite
 
 ## Contenuto
 - sql/01_exploration.sql: query di esplorazione di base
+
+- sql/02_aggregations.sql: conteggi di base (totale annunci, prezzi mancanti, distribuzione per zona e parole nel nome)
+## Primi risultati
+- Il dataset contiene 8844 annunci, di cui circa il 7,9% senza prezzo indicato.
+- Circa il 22,5% degli annunci è nella Terraferma.
+
